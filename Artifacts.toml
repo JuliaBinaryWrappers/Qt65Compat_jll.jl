@@ -1,244 +1,244 @@
 [[Qt65Compat]]
 arch = "aarch64"
-git-tree-sha1 = "4f7019954785a061ef9f3f89aa84ad4b12b0a5f1"
+git-tree-sha1 = "9efcc3eb2d879856cde1437544870a133e42bfed"
 os = "macos"
 
     [[Qt65Compat.download]]
-    sha256 = "bf2dfbe219e74b6c94b17074c3fdb2be08b8755c14c08ea810bd91448d626efd"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "a41942c11424452e3d8f121b9c577692fedab50c0422b62f77098404bbc232ea"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.aarch64-apple-darwin.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
-git-tree-sha1 = "6224860f86770338525585bbdf66ad86e63f62a1"
+git-tree-sha1 = "f6e9c7f2fb8eae19540871b5e7593125b36a32ea"
 os = "macos"
 
     [[Qt65Compat.download]]
-    sha256 = "17c11a577f75bd2b036b7f7f299344a0462dd92e0f5c8c9c84e64e1cd84b79dc"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "d38d5b63d7e9b3621804038a2c002396f25998d9e4667f980d0aabe070be0b89"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-apple-darwin.tar.gz"
 [[Qt65Compat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0da25abe23fea035d297cdcc9ecab49fde1dc8b5"
+git-tree-sha1 = "4b8f424c5af28f3a381da67034d20e0945117c29"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "660424864da9552216841bf8445a85685ffe02c7c67e088467fe288edaf896a3"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e88e99336e3ca0bb76e171eb5c705ae44b82fcdfadcec9db0672bdc35c2063fd"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5296d5509b3cfed2ee28734a628bfb1b3919ea31"
+git-tree-sha1 = "68d4e946127f26c5ceffcefac16d79b0462f6e21"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "d67f4db21b28176ba7eafffd49f0e7922e24420b8e46720c7cdbc6ce0c86e7ef"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "44123e6343a268b7e1f9a689ddcc7f527e244dadc0d39a8548b10c0b8e3d1b33"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6fc7cbb30b34cf827deab1638e68c4286705d63e"
+git-tree-sha1 = "0dc7d75d8c8735f53c411ae5756646e7a21396e7"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "1a7589bb01fb6fc57134741eb9f4930c19f9152e5890b89031aa23177509a2a7"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "87f2d9add325a16516918a2fe239dececcec7040f323031194f218c2128ee564"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ecc93ccc89c0b4e3cfc4395decfb152fb5f7d3ba"
+git-tree-sha1 = "7c1b3f23140e639d65cb70297e9b39db1f0824ec"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "e74634129652ccc680c943761f6714e0b6d8334dcce4d459d3f5ec5f168d7fe0"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "6f00920df0cb064a9fdf3c921fc3b3cb0db089bc9b4974d331156ff1f6920995"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "125f38cf33b1f47ba23183cc9fbaa0d4d6f08829"
+git-tree-sha1 = "80b31609663bd66d883b91e810acd742593a7e3c"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "c881ca841a9762bcc041dae6ac47171f8dcb3bd3462969c14eee1a95fcede692"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "b4de818332e89c60eae6565a1f181dddacbfe2ff92621297cc2780058587f3e4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "da21cb01c3e39afb6d4f0163b4fd6c6cca622e1b"
+git-tree-sha1 = "a04b8cab58f3d827bbb85a90cab8a1e983f72c52"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "084a12b923e8fcd21bc299d0270483152fa4b61d414c4214b42b78b633e931f8"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "303079416d5c466ee422aec868339a8ac40ac65ad91204f2daf354dda3344fe3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ecacc4d7e710164bb62186b88700bf81245d489f"
+git-tree-sha1 = "4678e7df5e19e20364f427429696b330af562d93"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "fb3b317727be060d7f66997c56f69306a244c210a626a8f0c2888d494ed502ea"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "4bba055e3493bb6daf9ad535fbbcca3fb3b407c8fa787906735f8f0ed8eee661"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "735c3b11d4491bbdbff230c027ba0ac49e9b4727"
+git-tree-sha1 = "22e837aa7296cdccf5be6e6fa4590adc6d75f85c"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "71c238af256db2a0186fbaed9a44ab704f6dfa78fb1557c1e471e527de37ca63"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "2ac7d56eda99f78957ba907cb87c60eedd24346e6bc65a3c553f0f22144ba96d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "14174985f6e972fff4c13edc539bf23b4b5f2d79"
+git-tree-sha1 = "387b38415fc4c9f69583c23f7725f431df0f4a90"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "da197dd2afbd4c5344f4c5a42e367923a06ce8728383b02b84934d025e46db49"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "28bded62846ce224b7a92ca9eede551fbe983ba38acc14eb28b8907aee960062"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.i686-linux-gnu-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91fb8d5fab5c1a8f18035a2e55faa72fbbc9ede7"
+git-tree-sha1 = "1c6a1f0d5c0e64c8c0e266e04c49bfc468403d99"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "f603250255535f70f9d3b72a30da67610c548017bc9a0d9058b788e51b86a7fe"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "6db2accc0eb36cbe281aece1a04524845abebbfdaf55efd9d0967cc2edff78e7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.i686-linux-gnu-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d028d2984475ea7b137ddec4ab01cd76d76166a"
+git-tree-sha1 = "c950af829740c3f50be3993bf404b951140d18c6"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "52bd41d099bc35a67afd98f1775973c291ffe2863d0d4a001b1986ac9e793075"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "f37e9a61a676db522664391de83dae557bbd01dc5198446a319822d0afed39e6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.i686-linux-musl-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5030e7e9df42c44a9f91ad19243fc8b32459eaff"
+git-tree-sha1 = "b511ea79bf2bbe2b743744fbf8084f080f0e23a1"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "71ef4fc4fc77ca360956f6d164a85c418fdb46ff3475dc2141a7e54aa7db6db0"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "00ec86be5788709f3c74087b67f1d6a933b4e338d78a9f24c2197fb4e1821118"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.i686-linux-musl-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d29d8fb423a769a07398304fb1af02c356eb245e"
+git-tree-sha1 = "f48779b7f709bce6be9b4e6296304b75378931af"
 os = "windows"
 
     [[Qt65Compat.download]]
-    sha256 = "e6205330fefccac5414224aaaaf227d0e5118fe63e66a6e20c876d0aea792f03"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "31bd75bbc84f24e288ef6d7cf2a39d674ca05f7dcd22247eb8fe6a80fd38bfbc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a70da9e240da5ee472b6827a3341e9d9dcefe3c7"
+git-tree-sha1 = "1d502241561b09d5ed86a91fb732dd3c66828ba6"
 os = "windows"
 
     [[Qt65Compat.download]]
-    sha256 = "9496936941a8f0f83c1e541efdabdbcb347afd6c00052a7d68e3d764368c1334"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "643c7f1f5be73674777cb6f011fa5c194366d4ae6feb86abe19896b41edc2b5b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "20cc2ebb5a0292a0cceb6ea0dfd20fa7692e8c31"
+git-tree-sha1 = "79454f272b4884eebd110e6a8e25e664a906f82c"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "4d45eee5c8f623ed823e15fb763a4218c3f510a24493e83f4a1076f832ce6410"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "5e2b251df9747e3d3bc362f621debc1d3af78f2e08dca3c71b96aa7f8aeb38a5"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a02ae7f4fe99721f878ba5af0b007b3b975fc1ef"
+git-tree-sha1 = "a9d9915e55ac56fc0cde6584f54caef6155a6509"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "be6a7332bc1b34cf2d479dd7d1dbc90d8c3c2001ff5bb4032bfed66aa44f0dda"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "11dd6bacc525ef8d49d90c9f29e635a4ca667ee4db2cc551f3057da05647ba6b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "42839ba0fd360f41dacc78e2d39036a7ecc0552e"
+git-tree-sha1 = "63fd1e7e898dd6c37e9647c0ab11399f1f4b4073"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "0142cb5ec0e9a45385e62fb0307efec02e86934bdabf206b2871f38d040c9355"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a6b753bebcab6597970efd9f37ed3181995314224d35aee50b6470f687acae1f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f67cdb7020e12dad651e118cb12ddc132acd235"
+git-tree-sha1 = "668b3b3cdbe4d058dee7d6aeaf7ed039b50777e9"
 libc = "glibc"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "f34965e3acee9fc6341383ae9f24f7f1dcfbb2bd6ea4b886fd4fc012210e57bf"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d94eeef36cd8fc66e79292d22efc2fcdf94f1dd387cd71b81d53d0efd8757977"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df40e6707f4155d605673744d4439e377105aac3"
+git-tree-sha1 = "568077482cbdf5b93d703a9114d607a5874536b0"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "88ea10b1e8182cb8af32baceadb6847fe744c18b192b38a850278eed1477f86b"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "2ae78442923198ecc3e4086a7f1cdb4dba8bd8470ad3175fa6e2b5a8de41891c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-linux-musl-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f64b123e1c219ab12c77aea176162e7666b3a09"
+git-tree-sha1 = "c3f1d58d2d10d961e0aeac0af98582d5d15880c3"
 libc = "musl"
 os = "linux"
 
     [[Qt65Compat.download]]
-    sha256 = "14995730131165428f2f349aec624ea7926ac5b8275991e032e651cc0253a2d6"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "0faf40562c21eff290ae93058e56ded85ef36cc741c958a7a0ad8dcb29494ff2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-linux-musl-cxx11.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
-git-tree-sha1 = "4daab69e892b699e5218c438d863de017a94c65c"
+git-tree-sha1 = "dc1c647efd1193996d3554ff5571aa8e426d9233"
 os = "freebsd"
 
     [[Qt65Compat.download]]
-    sha256 = "008c70907fd6ecbdbfe33a06132c9384b70d4d2c788e93236d7645c5ef9dfcd7"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6e85c2a2b0f53cacde65fb36d96ec7adef0e14253d3de9b1e863a0157fb077a0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-unknown-freebsd.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "34c01b372ff14ff68ab1958125c8948e4cdea8c0"
+git-tree-sha1 = "1823057d041ac52e62a6711aeefddecd94109793"
 os = "windows"
 
     [[Qt65Compat.download]]
-    sha256 = "06b315eb4b926e94dbf307549281e756f9c2012d885ed419fad53ae74ae41fc9"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "d9c38e471ebca2c67fd00a04d11bab19ad81c7b5e23dcd6a34a543c0ee1b391b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Qt65Compat]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2eadd86db6d925a5649142e769413c0e2a76a669"
+git-tree-sha1 = "19fb5dcf9e6df5c2c211362fc46be89bcb513906"
 os = "windows"
 
     [[Qt65Compat.download]]
-    sha256 = "dc9ee49a330bd7b5d6278c7ac94b1176fc19d84d4879bb9bc5f37aee8c7dcafc"
-    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.5.2+0/Qt65Compat.v6.5.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "dace1b5dd7df1f747889212f49b48e8174677d649d7890da2a701a1b22db847b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt65Compat_jll.jl/releases/download/Qt65Compat-v6.7.1+0/Qt65Compat.v6.7.1.x86_64-w64-mingw32-cxx11.tar.gz"
