@@ -1,6 +1,6 @@
 name = "Qt65Compat_jll"
 uuid = "f5784262-74e5-52be-b835-f3e8a3cf8710"
-version = "6.7.1+0"
+version = "6.8.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -11,10 +11,10 @@ Qt6Base_jll = "c0090381-4147-56d7-9ebc-da0b1113ec56"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-Qt6Declarative_jll = "=6.7.1"
-Qt6ShaderTools_jll = "=6.7.1"
-Libdl = "1"
-Artifacts = "1"
-Qt6Base_jll = "=6.7.1"
+Qt6Declarative_jll = "=6.8.2"
+Qt6ShaderTools_jll = "=6.8.2"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
+Qt6Base_jll = "=6.8.2"
